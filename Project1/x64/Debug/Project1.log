@@ -1,2 +1,17 @@
-﻿  Robodash.cpp
+﻿  bomba.cpp
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\bomba.cpp(20,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\bomba.cpp(20,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  gameplay.cpp
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(42,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,91): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,91): warning C4244:         with
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,91): warning C4244:         [
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,91): warning C4244:             T=float
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,91): warning C4244:         ]
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,64): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,64): warning C4244:         with
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,64): warning C4244:         [
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,64): warning C4244:             T=float
+C:\Users\Lucas\Desktop\juego Bomberman\Project1\gameplay.cpp(109,64): warning C4244:         ]
+  Generando código...
   Project1.vcxproj -> C:\Users\Lucas\Desktop\juego Bomberman\Project1\x64\Debug\Project1.exe

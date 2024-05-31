@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:Poyo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:PoyoMole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:PoyoMole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Robodash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:Poyo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:Poyo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:sr.Moai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:sr.Moai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:PoyoMole.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Robodash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "gameplay.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.cpp",
               "RelativeToolTip": "gameplay.cpp",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJYAAAAAAAAA",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAkwG0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T18:31:38.788Z",
               "IsPinned": true,
@@ -120,83 +120,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "personaje.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp",
               "RelativeDocumentMoniker": "personaje.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp",
               "RelativeToolTip": "personaje.cpp",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-07T23:24:23.892Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "personaje.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.h",
               "RelativeDocumentMoniker": "personaje.h",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.h",
               "RelativeToolTip": "personaje.h",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAA8AAAAhAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-07T23:23:29.611Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "bomba.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp",
               "RelativeDocumentMoniker": "bomba.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp",
               "RelativeToolTip": "bomba.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-25T14:46:27.48Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "bomba.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h",
               "RelativeDocumentMoniker": "bomba.h",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h",
               "RelativeToolTip": "bomba.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-25T14:46:50.271Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "PoyoMole.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.h",
               "RelativeDocumentMoniker": "PoyoMole.h",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.h",
               "RelativeToolTip": "PoyoMole.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-28T15:06:59.597Z"
+              "WhenOpened": "2024-05-28T15:06:59.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PoyoMole.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.cpp",
               "RelativeDocumentMoniker": "PoyoMole.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.cpp",
               "RelativeToolTip": "PoyoMole.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T15:15:09.657Z"
+              "WhenOpened": "2024-05-28T15:15:09.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Poyo.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.h",
               "RelativeDocumentMoniker": "Poyo.h",
@@ -204,11 +210,12 @@
               "RelativeToolTip": "Poyo.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T16:23:52.307Z"
+              "WhenOpened": "2024-05-27T16:23:52.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Poyo.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.cpp",
               "RelativeDocumentMoniker": "Poyo.cpp",
@@ -220,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "sr.Moai.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.h",
               "RelativeDocumentMoniker": "sr.Moai.h",
@@ -232,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "sr.Moai.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.cpp",
               "RelativeDocumentMoniker": "sr.Moai.cpp",
@@ -256,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Robodash.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Robodash.cpp",
               "RelativeDocumentMoniker": "Robodash.cpp",

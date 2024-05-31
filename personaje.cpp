@@ -1,5 +1,5 @@
 #include "personaje.h"
-#include "bomba.h"
+
 
 Personaje::Personaje() {
 	if (!_textura.loadFromFile("imagenes/sprite.png")) {
@@ -21,6 +21,10 @@ void Personaje::setSpritePosicion() {
 
 void Personaje::setCorreguirPosicion() {
 	_correguirPosicion = _sprite.getPosition();
+}
+
+sf::Vector2f Personaje::getPosicion(){
+	return _sprite.getPosition();
 }
 
 sf::Vector2f Personaje::getCorreguirPosicion(){
@@ -85,16 +89,7 @@ void Personaje::movimiento() {
 
 }
 
-///////////////////// CREAR BOMBA
-/*
-void Personaje::crearBomba() {
-	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space)) {
-		CBomba bomba1;
-		bomba1.setBombaPosicion(_sprite.getPosition().x, _sprite.getPosition().y);
-		
-		bomba1.animacionBomba();
-	}
-}*/
+
 
 
 

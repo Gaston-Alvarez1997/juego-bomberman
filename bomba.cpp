@@ -1,44 +1,60 @@
-/*#include "bomba.h"
+#include "bomba.h"
 
 CBomba::CBomba() {
 
 	if (!_texturaBomba.loadFromFile("imagenes/bomba.png")) {
 		exit(19);
 	}
-	_spriteBomba.setTexture(_texturaBomba);
+	if (!_texturaexplosion.loadFromFile("imagenes/explosion.png")) {
+		exit(19);
+	}
+	
 
+	_estadoExplosion = false;
+	_viva = false;
+	_frame = 0;
 }
 ///////////////////
 
-void CBomba::setBombaPosicion(int x,int y) {
+void CBomba::setBombaPosicion (int x,int y) {
 	_spriteBomba.setPosition(x,y);
 }
 
+void CBomba::setestado(bool cambio) {
+	_viva = cambio;
+}
+
+bool CBomba::getestado() {
+	return _viva;
+}
+
+bool CBomba::getexplision() {
+	return _estadoExplosion;
+}
 /////////////////////
 void CBomba::draw(sf::RenderTarget& target, sf::RenderStates states) const {
 	target.draw(_spriteBomba, states);
 }
 
+sf::FloatRect CBomba::getBounds() const {
+	return _spriteBomba.getGlobalBounds();
+}
 ///////////////////////////////////////
 void	CBomba::animacionBomba() {
+	
+	_spriteBomba.setTexture(_texturaBomba);
+	
+	for (int x = 0; x < 30; x++) {
+		_frame += 0.1f;
 
-	bool bandera=true;
+		if (_frame >= 3) {
+			_frame = 0;
+		}
 
-	for (int x = 0; x < 45; x++) {
-		if (bandera==true) {
-			_frame += 0.2f;
-			_spriteBomba.setTextureRect({ 0 + int(_frame) * 50,0,50,42 });
-			if (_frame == 3) {
-				bandera = false;
-			}
-		}
-		if (bandera==false) {
-			_frame -= 0.2f;
-			_spriteBomba.setTextureRect({ 0 + int(_frame) * 50,0,50,42 });
-			if (_frame == 0) {
-				bandera = true;
-			}
-		}
+		_spriteBomba.setTextureRect({ 0 + int(_frame) * 50,0,50,42 });
 	}
+			_estadoExplosion = true;
 }
-*/
+
+
+

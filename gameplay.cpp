@@ -3,6 +3,7 @@
 #include "spritebloque.h"
 #include "spritesolido.h"
 #include "personaje.h"
+#include "bomba.h"
 #include "Poyo.h"
 #include "Robodash.h"
 #include "sr.Moai.h"
@@ -20,6 +21,7 @@ void Gameplay::compilarJuego() {
     ClaseEscenario mapa;
     Spritebloque bloque;
     Spritesolido solido;
+    CBomba nuevabomba;
     Personaje bomberboy;
     EnemigoPoyo poyo;
     EnemigoRobo robodash;
@@ -32,6 +34,7 @@ void Gameplay::compilarJuego() {
     std::vector<Spritebloque> bloques;
     std::vector<Spritesolido> solidos;
     std::vector<sf::Vector2i> posicionesLibres;
+    
 
     const float tamCeldas = 54;
     const float tamCeldasy = 46;
@@ -100,6 +103,14 @@ void Gameplay::compilarJuego() {
         robodash.Movimiento(movimientorandomrobo);
         moai.Movimiento(movimientorandommoai);
         poyomole.Movimiento(movimientorandompoyomole);
+        
+        ///intento de crear una bomba
+        if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space)) {
+            nuevabomba.setBombaPosicion(bomberboy.getPosicion().x, bomberboy.getPosicion().y);
+            nuevabomba.setestado(true);
+        }
+
+        
 
         // Verificar colisiones con bloques destruibles
         for (auto& bloque : bloques) {
@@ -150,6 +161,7 @@ void Gameplay::compilarJuego() {
         }
 
 
+
         window.clear();
 
         /// DIBUJANDO EL MAPA
@@ -182,6 +194,15 @@ void Gameplay::compilarJuego() {
             }
         }
 
+       
+        
+        if (nuevabomba.getestado() == true) {
+            window.draw(nuevabomba);
+            
+                nuevabomba.animacionBomba();
+                
+        }
+        
         window.draw(poyo);
         window.draw(poyomole);
         window.draw(robodash);

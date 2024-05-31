@@ -28,12 +28,12 @@ public:
 	void setSpritePosicion();
 	void setCorreguirPosicion();
 
+	sf::Vector2f getPosicion();
 	sf::Vector2f getCorreguirPosicion();
 	////////////////
 	sf::FloatRect getBounds() const override;
 	//////////////////
-	void crearBomba();
-
+	
 
 
 
