@@ -9,6 +9,10 @@ CBomba::CBomba() {
 		exit(19);
 	}
 	
+	_spriteBomba.setTexture(_texturaBomba);
+	_spriteExplosion.setTexture(_texturaexplosion);
+	_spriteExplosion.setScale(0.9f, 0.9f);
+	
 
 	_estadoExplosion = false;
 	_viva = false;
@@ -18,6 +22,7 @@ CBomba::CBomba() {
 
 void CBomba::setBombaPosicion (int x,int y) {
 	_spriteBomba.setPosition(x,y);
+	_tiempo.restart();
 }
 
 void CBomba::setestado(bool cambio) {
@@ -33,7 +38,12 @@ bool CBomba::getexplision() {
 }
 /////////////////////
 void CBomba::draw(sf::RenderTarget& target, sf::RenderStates states) const {
-	target.draw(_spriteBomba, states);
+	if (_viva) {
+		target.draw(_spriteBomba, states);
+	}
+	else if (_estadoExplosion) {
+		target.draw(_spriteExplosion, states);
+	}
 }
 
 sf::FloatRect CBomba::getBounds() const {
@@ -42,8 +52,7 @@ sf::FloatRect CBomba::getBounds() const {
 ///////////////////////////////////////
 void	CBomba::animacionBomba() {
 	
-	_spriteBomba.setTexture(_texturaBomba);
-	
+
 	for (int x = 0; x < 30; x++) {
 		_frame += 0.1f;
 
@@ -53,8 +62,38 @@ void	CBomba::animacionBomba() {
 
 		_spriteBomba.setTextureRect({ 0 + int(_frame) * 50,0,50,42 });
 	}
-			_estadoExplosion = true;
+	
 }
 
 
+void CBomba::animacionExplosion() {
+	
+
+	_frame += 0.1f;
+
+	if (_frame >= 3) {
+		_frame = 0;
+		_estadoExplosion = false;
+		_viva = false;
+	}
+
+	_spriteExplosion.setTextureRect({ 0 + int(_frame) * 50,0,50,46 });
+
+}
+
+
+void CBomba::estadosParaDibujo() {
+	if (_viva && _tiempo.getElapsedTime().asSeconds() >= 3) {
+		_viva = false;
+		_estadoExplosion = true;
+		_spriteExplosion.setPosition(_spriteBomba.getPosition());
+	} 
+
+	if (_estadoExplosion) {
+		animacionExplosion();
+	}
+	else if (_viva) {
+		animacionBomba();
+	}
+}
 

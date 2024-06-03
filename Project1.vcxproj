@@ -145,6 +145,7 @@
     <ClCompile Include="Poyo.cpp" />
     <ClCompile Include="Robodash.cpp" />
     <ClCompile Include="PoyoMole.cpp" />
+    <ClCompile Include="item.cpp" />
     <ClCompile Include="sr.Moai.cpp" />
     <ClCompile Include="spritesolido.cpp" />
     <ClCompile Include="spritebloque.cpp" />
@@ -154,6 +155,7 @@
     <ClInclude Include="gameplay.h" />
     <ClInclude Include="colisionable.h" />
     <ClInclude Include="bomba.h" />
+    <ClInclude Include="item.h" />
     <ClInclude Include="PoyoMole.h" />
     <ClInclude Include="sr.Moai.h" />
     <ClInclude Include="Robodash.h" />

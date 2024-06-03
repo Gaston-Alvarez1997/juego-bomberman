@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:bomba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritesolido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritebloque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritebloque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -55,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:Robodash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritebloque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritebloque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -77,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritesolido.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|solutionrelative:spritesolido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471A9753-8DCF-4E25-B4AE-D8FE6F3D243C}|Project1.vcxproj|C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\colisionable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -102,17 +110,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "gameplay.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.cpp",
               "RelativeDocumentMoniker": "gameplay.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.cpp",
               "RelativeToolTip": "gameplay.cpp",
-              "ViewState": "AQIAAMEAAAAAAAAAAAAkwG0AAAAnAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAMcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T18:31:38.788Z",
               "IsPinned": true,
@@ -120,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "personaje.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp",
               "RelativeDocumentMoniker": "personaje.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.cpp",
               "RelativeToolTip": "personaje.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-07T23:24:23.892Z",
               "IsPinned": true,
@@ -134,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "personaje.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.h",
               "RelativeDocumentMoniker": "personaje.h",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\personaje.h",
               "RelativeToolTip": "personaje.h",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-07T23:23:29.611Z",
               "IsPinned": true,
@@ -148,13 +156,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "bomba.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp",
               "RelativeDocumentMoniker": "bomba.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.cpp",
               "RelativeToolTip": "bomba.cpp",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-25T14:46:27.48Z",
               "IsPinned": true,
@@ -168,7 +176,7 @@
               "RelativeDocumentMoniker": "bomba.h",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\bomba.h",
               "RelativeToolTip": "bomba.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-25T14:46:50.271Z",
               "IsPinned": true,
@@ -177,6 +185,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "item.cpp",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.cpp",
+              "RelativeDocumentMoniker": "item.cpp",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.cpp",
+              "RelativeToolTip": "item.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T16:30:58.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "item.h",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.h",
+              "RelativeDocumentMoniker": "item.h",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\item.h",
+              "RelativeToolTip": "item.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T16:31:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PoyoMole.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.h",
               "RelativeDocumentMoniker": "PoyoMole.h",
@@ -184,12 +219,11 @@
               "RelativeToolTip": "PoyoMole.h",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-28T15:06:59.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:06:59.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PoyoMole.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\PoyoMole.cpp",
               "RelativeDocumentMoniker": "PoyoMole.cpp",
@@ -197,12 +231,11 @@
               "RelativeToolTip": "PoyoMole.cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T15:15:09.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:15:09.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Poyo.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.h",
               "RelativeDocumentMoniker": "Poyo.h",
@@ -210,12 +243,11 @@
               "RelativeToolTip": "Poyo.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-27T16:23:52.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T16:23:52.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Poyo.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Poyo.cpp",
               "RelativeDocumentMoniker": "Poyo.cpp",
@@ -227,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "sr.Moai.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.h",
               "RelativeDocumentMoniker": "sr.Moai.h",
@@ -239,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "sr.Moai.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\sr.Moai.cpp",
               "RelativeDocumentMoniker": "sr.Moai.cpp",
@@ -251,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Robodash.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Robodash.h",
               "RelativeDocumentMoniker": "Robodash.h",
@@ -263,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Robodash.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\Robodash.cpp",
               "RelativeDocumentMoniker": "Robodash.cpp",
@@ -275,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "spritebloque.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.h",
               "RelativeDocumentMoniker": "spritebloque.h",
@@ -283,23 +315,25 @@
               "RelativeToolTip": "spritebloque.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-16T23:16:18.342Z"
+              "WhenOpened": "2024-05-16T23:16:18.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "spritebloque.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.cpp",
               "RelativeDocumentMoniker": "spritebloque.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritebloque.cpp",
               "RelativeToolTip": "spritebloque.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-16T23:19:38.959Z"
+              "WhenOpened": "2024-05-16T23:19:38.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -311,19 +345,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "spritesolido.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.cpp",
               "RelativeDocumentMoniker": "spritesolido.cpp",
               "ToolTip": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.cpp",
               "RelativeToolTip": "spritesolido.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-16T23:32:13.1Z"
+              "WhenOpened": "2024-05-16T23:32:13.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "spritesolido.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\spritesolido.h",
               "RelativeDocumentMoniker": "spritesolido.h",
@@ -335,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CEscenario.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\CEscenario.h",
               "RelativeDocumentMoniker": "CEscenario.h",
@@ -347,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "colisionable.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\colisionable.h",
               "RelativeDocumentMoniker": "colisionable.h",
@@ -359,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "colisionable.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\colisionable.cpp",
               "RelativeDocumentMoniker": "colisionable.cpp",
@@ -371,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "gameplay.h",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\gameplay.h",
               "RelativeDocumentMoniker": "gameplay.h",
@@ -383,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CEscenario.cpp",
               "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\juego Bomberman\\Project1\\CEscenario.cpp",
               "RelativeDocumentMoniker": "CEscenario.cpp",

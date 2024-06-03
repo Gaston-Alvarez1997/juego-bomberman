@@ -110,6 +110,7 @@ void Gameplay::compilarJuego() {
             nuevabomba.setestado(true);
         }
 
+        nuevabomba.estadosParaDibujo();
         
 
         // Verificar colisiones con bloques destruibles
@@ -196,12 +197,7 @@ void Gameplay::compilarJuego() {
 
        
         
-        if (nuevabomba.getestado() == true) {
-            window.draw(nuevabomba);
-            
-                nuevabomba.animacionBomba();
-                
-        }
+        window.draw(nuevabomba);
         
         window.draw(poyo);
         window.draw(poyomole);
